@@ -42,7 +42,7 @@ Parking Charge is: 430.0
 * Java
 * `Scanner`
 * Variables
-* `if-else if-else`
+* if-else if-else
 * Arithmetic operators
 * Slab-based calculation
 * Percentage calculation
