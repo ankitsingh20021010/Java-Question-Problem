@@ -6,6 +6,8 @@ A simple Java program that calculates the parking fee based on the number of hou
 
 Write a Java program to calculate the parking fee according to the number of parking hours.
 
+
+
 ### Pricing Rules
 
 | Parking Hours       |     Rate |
