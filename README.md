@@ -23,6 +23,7 @@ First 1000 liters → ₹2 per liter
 Next 1000 liters → ₹3 per liter
 Above 2000 liters → ₹5 per liter
 
+
 Condition:
 
 If the bill exceeds ₹6000, add 10% tax.
