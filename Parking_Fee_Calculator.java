@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class Parking_Fee_Calculator{
    public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
