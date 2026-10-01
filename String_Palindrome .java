@@ -1,4 +1,4 @@
-
+//palindrome 121 -->121 both side are sane like 121 ->121
 class String_Palindrome {
     public static void main(String[] args) {
         String str = "madam";
