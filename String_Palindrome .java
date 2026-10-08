@@ -5,7 +5,7 @@ class String_Palindrome {
         String reverse = "";
 
         for (int i = str.length() - 1; i >= 0; i--) {
-            reverse += str.charAt(i);
+            reverse += str.charAt(i); //using charAT funtion ) pre define method
         }
 
         if (str.equals(reverse))
